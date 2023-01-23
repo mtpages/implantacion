@@ -1,1 +1,1 @@
-# implantacion
+# implantacion de sistemas operativos
